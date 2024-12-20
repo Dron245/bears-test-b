@@ -750,7 +750,7 @@ h6 {
   }
   .menu-open .menu__body {
     right: 0;
-    z-index: 3;
+    z-index: 6;
     background-color: #fff
   }
   .menu-open .menu__body::before {
@@ -768,7 +768,7 @@ h6 {
     position: relative;
     width: 1.5rem;
     height: .875rem;
-    z-index: 5
+    z-index: 6
   }
   .icon-menu span,
   .icon-menu::after,
